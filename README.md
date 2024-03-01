@@ -1,5 +1,8 @@
 # AndroidPedia: The Android OS Encyclopedia
 
+![AndroidPedia Logo](res/androidpedialogo.png)
+
+
 Welcome to AndroidPedia, your go-to resource for all things related to the Android operating system! 📱
 
 ## About AndroidPedia
