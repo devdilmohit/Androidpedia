@@ -22,6 +22,14 @@ one-stop destination for understanding the ins and outs of the Android ecosystem
 - **Community Collaboration:** AndroidPedia thrives on collaboration. Contribute your knowledge, share your expertise, and be a part of a vibrant
 - community dedicated to enhancing the Android experience.
 
+---
+
+[Hisrtory of Android OS](history.md)
+
+[Versatility of Android OS](Versatility.md)
+
+---
+
 ## Get Involved
 
 - **Contribute:** Feel free to contribute to AndroidPedia by adding new articles, updating existing content, or sharing your expertise through tutorials.
